@@ -1,5 +1,5 @@
 This project implements both BINARY and MULTICLASS classification of network traffic to detect DDoS attacks using the CICDDoS2019 dataset.  
-We experimented with **K-Nearest Neighbors (KNN)** and **Random Forest (RF)** models, and evaluated their performance.
+I experimented with **K-Nearest Neighbors (KNN)** and **Random Forest (RF)** models, and evaluated their performance.
 
 Dataset used:CICDDoS2019 (https://www.unb.ca/cic/datasets/ddos-2019.html)  
 
